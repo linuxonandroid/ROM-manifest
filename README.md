@@ -1,4 +1,5 @@
 ROM-manifest
 ============
 
-manifest for building LoA ROM from source
+$ repo init -u https://github.com/linuxonandroid/ROM-manifest.git -b master
+$ repo sync
